@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Representation of the prejudices that may arise in time from an intended act concerning marriages &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57044</idno>
+            <idno type="STC">Wing R1105</idno>
+            <idno type="STC">ESTC R26985</idno>
+            <idno type="EEBO-CITATION">09602222</idno>
+            <idno type="OCLC">ocm 09602222</idno>
+            <idno type="VID">43780</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43780)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Representation of the prejudices that may arise in time from an intended act concerning marriages &amp;c.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage law --  England.</term>
+               <term>Age (Law) --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43780:1"/>
+            <pb facs="tcp:43780:1"/>
+            <p>A REPRESENTATION OF THE PREJUDICES That may Ariſe in TIME FROM AN <hi>Intended Act,</hi> CONCERNING Marriages, &amp;c.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Clavell,</hi> at the <hi>Peacock</hi> at the Weſt-End of St. <hi>Pauls.</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43780:2"/>
+            <pb n="3" facs="tcp:43780:2"/>
+            <p>'TIS no Diſhonour to the Greateſt and Wiſeſt of Aſſemblies, even a Parliament, to review and alter their own Acts and Conſtitutions, whenever it is found by Experience, that any Inconveniences or Miſchiefs follow upon them: But when <hi>Sins</hi> are likely to follow, men are neither to venture nor ſtay for the Experiment.</p>
+            <p>Such, many ſuch, both Sins and Inconveniences dan<g ref="char:EOLhyphen"/>gerous and greatly prejudicial ſeem but too apparent as the more than <hi>accidental</hi> Conſequences of a <hi>Bill</hi> ſaid to be now paſſing into a Law of the Land, entituled, <q>An Act diſabling <hi>Minors</hi> to marry without the Con<g ref="char:EOLhyphen"/>ſent of their Father or Guardian, and againſt their untimely Marriage after the Death of their Father, and for preventing all Clandeſtine Marriages.</q>
+            </p>
+            <p>To ſhew how eaſily this Act may be eluded or abu<g ref="char:EOLhyphen"/>ſed, and repreſent withal the Sins and Miſchiefs that are likely ſoon to follow it, I ſhall conſider the Heads of it in an Abſtract, that has come to hand, of it, (the Copy at large I have not ſeen, nor is it in my Power to procure, and do hope, not to ſee paſſed into a Law).</p>
+            <p>By the Draught I have ſeen, it is to be Enacted,</p>
+            <p>From the 30th. of <hi>March</hi> 1692. <q>No Son under 18, nor Daughter under 16. ſhall Marry or Contract
+<pb n="4" facs="tcp:43780:3"/>without their Father (if living) or Guardian be pre<g ref="char:EOLhyphen"/>ſent and conſenting to, or without Conſent in Wri<g ref="char:EOLhyphen"/>ting, ſigned in the preſence of two Witneſſes or more, otherwiſe the Marriage to be <hi>ipſo facto</hi> void.</q>
+            </p>
+            <p>I will put the Caſe, That a Man of 17. years of Age contracts with a Woman of the ſame years, the Woman has Conſent of her Parents, the Man has not his Fa<g ref="char:EOLhyphen"/>thers Conſent, however theſe get married. Now is this Marriage by the Intended Act made <hi>ipſo facto</hi> void, by Reaſon that the Man had not the Conſent of his Fa<g ref="char:EOLhyphen"/>ther?</p>
+            <p>The Queſtion that will ariſe from ſuch a Caſe as this, is, Whether ſuch a Marriage can be made void, ſo as to ſecure the Conſciences of ſuch as ſhall be divorced in ſuch a Caſe, that they may either Separate, or Marry others to the better liking of their Parents?</p>
+            <p>Now 'tis not I conceive, a very eaſie matter to prove, That a Man of 17. years of Age, (who may well be ſuppoſed to have at that Age Diſcretion to know what he does, and what a Marriage Contract ſignifies) yet has <hi>without the Conſent</hi> of his Father contracted himſelf to a Woman, and gone on deliberately in it, and actu<g ref="char:EOLhyphen"/>ally married her, and known her as a Wife; may yet Lawfully and with a good Conſcience yield to the breaking off this Marriage, be divorced, or take ano<g ref="char:EOLhyphen"/>ther Wife, becauſe his Father gave not his Conſent to the firſt Contract he engaged himſelf in. No doubt but it was his <hi>Duty</hi> to have ſought and obtained the <hi>Conſent</hi> of his Father, before he had contracted himſelf and married; But that his not having done his Duty in that caſe to his <hi>Father,</hi> will afterwards free him of his Contract and Marriage to his <hi>Wife,</hi> is a Conceit that few mens Conſciences will admit.</p>
+            <pb n="5" facs="tcp:43780:3"/>
+            <p>The beſt Caſuiſts have reſolved the Marriage to be Valid <hi>in foro Conſcientiae,</hi>
+               <note place="margin">Vid. Gro<g ref="char:EOLhyphen"/>tius de Jure L. <hi>2.</hi> cap. <hi>5.</hi>
+               </note> though made without the Conſent of Parents and even againſt it; owning it the manifeſt Duty of Children to have the Parents Conſent; but if they marry without, the want of it does by no means invalidate the <hi>Contract.</hi> When that is finiſhed, the Man by Gods Law is to <hi>forſake Father</hi> and <hi>Mother</hi> and <hi>cleave to his Wife,</hi> goes out into another Family, and is not in ſuch ſubjection as ſhall oblige him to break off againſt his own Inclination, or indeed as can juſtifie him in Conſcience in ſeparating (ſhould he have an Inclination to comply with his Fathers Will) from the Wife with whom he is become <hi>one Fleſh.</hi>
+            </p>
+            <p>Some, that have pretended to argue the Invalidity of ſuch Marriages, have never been able to prove any Thing like it from God's Law; the utmoſt they have proved, amounts to no more than this, <hi>viz.</hi> That it is deducible, and may be inferred from divers Paſſages in Scripture, that <hi>Children ought to have their Parents Conſent in Marrying,</hi> which all the World owns. But this by no means proves, that what ought not to have been done may upon no account be <hi>valid</hi> when it is done. What is commonly brought as an Argument in the Caſe to prove the <hi>Nullity</hi> from Reaſon, <hi>viz.</hi> 
+               <q>That a Son cannot alienate or give away his <hi>Fathers Goods</hi> without his Conſent, much leſs himſelf, who is his <hi>Fathers Child,</hi> is very trifling.</q> For though he can<g ref="char:EOLhyphen"/>not give his <hi>Father's Goods,</hi> nor alienate them, but the Law will reſtore them, and the Son perhaps may not be bound to give them away, though he had promi<g ref="char:EOLhyphen"/>ſed to do it, as not being obliged to fulfil an unlawful Promiſe; yet if he alienates them to another as his own, and has received from him, with whom he has contracted for them, an <hi>equitable</hi> Conſideration; he is obliged in Conſcience no doubt to an Equivalent Reſti<g ref="char:EOLhyphen"/>tution,
+<pb n="6" facs="tcp:43780:4"/>if he does not make good his Promiſe in their delivery, or whenever a Law of the Land ſhall cauſe the Return of the Goods to the Father. Beſides, the World never yet ſuppoſed, I preſume, that the Proper<g ref="char:EOLhyphen"/>ty and Dominion a man hath in his <hi>Goods,</hi> and that which he hath in his <hi>Child</hi> are of the ſame nature or the like extent; or that a Child hath no more Power over his own <hi>Body</hi> to diſpoſe of that to his own liking, than of his <hi>Fathers Goods,</hi> in which he hath no manner of Property. The Child no doubt is <hi>intereſſed</hi> in his <hi>own</hi> Marriage, and therefore is not to be diſpoſed of by the Father in Marriage againſt his own Inclinations. And therefore when he underſtandeth the <hi>Intereſt</hi> him<g ref="char:EOLhyphen"/>ſelf hath in contracting for the Marriage of himſelf, and contracteth upon that <hi>Intereſt</hi> of his own without his Father; he is to blame no doubt for paſſing by the <hi>In<g ref="char:EOLhyphen"/>tereſt</hi> of his Father, but under no neceſſity when that is done, to diſclaim what he has acted upon the ac<g ref="char:EOLhyphen"/>count of his <hi>own Intereſt</hi> in the Marriage of himſelf; but under an obligation of Conſcience not to reſcind the Contract he has made with another upon it. They who would deny this, muſt affirm the Dominion of the <hi>Father</hi> to be <hi>abſolute,</hi> and at all times the ſame; and alſo that the Child is under the ſame Reſtriction at 20, 30, years of Age, as at 17, whether out of the Fa<g ref="char:EOLhyphen"/>ther's Family or in it. (A thing 'tis which the generality of the World never dream't of.) The only thing that can be pretended, if they will not ſay this, is that the Child at more years may have more Diſcretion: But <hi>one</hi> may have Diſcretion at 17. which <hi>another</hi> has not at 20, 30 years of Age: and for that Reaſon a Time can<g ref="char:EOLhyphen"/>not be fixed for the Validity of a Contract, but the Va<g ref="char:EOLhyphen"/>lidity of it <hi>in Conſcience</hi> depends upon a Man's having the Uſe of Reaſon, when he made it; be it at any Age.</p>
+            <pb n="7" facs="tcp:43780:4"/>
+            <p>'Twill be ſaid I know, The <hi>Law of the Land</hi> will ſecure the Conſcience in this caſe; But it ſhould be firſt proved, that God allows us to take <hi>Man's</hi> Law for our Direction in this matter; otherwiſe where there ſhall be found a Repugnancy between God's Law and any Law of men; They who think in Conſcience that they are to <hi>obey God, rather than Man,</hi> cannot be perſwaded that any Law of the Land will bear them out in act<g ref="char:EOLhyphen"/>ing againſt the Law of God. And here in this caſe there is ſo far a Repugnancy, that the Law of <hi>Chriſt</hi> ſays, if a man be <hi>Divorced</hi> for other Cauſe than that of <hi>Fornication,</hi> and marry another, he committeth <hi>Adul<g ref="char:EOLhyphen"/>tery,</hi> and cauſeth the Wife to commit <hi>Adultery:</hi> But the Intended Law of the Land makes <hi>void</hi> Marriage, for want of the <hi>Conſent of the Father</hi> of the married Per<g ref="char:EOLhyphen"/>ſon; a Cauſe that we find no Inſtance of any Divorce for among the <hi>Jews,</hi> when their Practice was per<g ref="char:EOLhyphen"/>mitted.</p>
+            <p>Some may ſay, This making the Marriage void, is not a <hi>Divorce,</hi> but the Declaration of a <hi>Nullity</hi> in the Marriage; but this I fear is a Subtile Diſtinction, that can give little Security to the Conſcience. For the thing will be ſtill in diſpute, What makes a Marriage in the ſight of God, whether the Voluntary Action of a Per<g ref="char:EOLhyphen"/>ſon having the uſe of Reaſon, that contracts himſelf to a Woman in face of God's Church, and cohabits with her upon it, or the Conſent which his Father ſhall give to what he does? This the Conſcience of a Vo<g ref="char:EOLhyphen"/>luntary Agent with reſolve him in more plainly, than all the Arguings of ſubtle Wits in the caſe.</p>
+            <p n="2">(2.) But now beſides the <hi>Snare</hi> which the <hi>Diſſolu<g ref="char:EOLhyphen"/>tion</hi> of Marriages according to this Act may prove to Mens <hi>Conſciences;</hi> there may be an Injuſtice in it in many Caſes to an Innocent Party. As in the Inſtance
+<pb n="8" facs="tcp:43780:5"/>propoſed before (for Example) of a Man at 17. mar<g ref="char:EOLhyphen"/>rying a Woman of the ſame Age.</p>
+            <p>The Woman may have the Conſent of her Parents, or is of Age ſufficient, according to this Law, to marry without them, and may be deceived by the Man, and told that he has no Father living, or that his Father is conſenting, and made to believe as much; or may not mind to look after it, being of leſs diſcretion than a man of the ſame Age with her: In ſuch a Caſe a Mar<g ref="char:EOLhyphen"/>riage may ſucceed, and a <hi>Cohabitation.</hi> Now ſhould a <hi>Separation</hi> be made after this as by the Intended Law it may, (no Proviſion being made to help the <hi>Woman</hi> in caſe of ſuch a Fraud) it would be very hard in many Reſpects, as She cannot be ſecured in Conſcience in mar<g ref="char:EOLhyphen"/>rying again, as She has been robbed of her Virginity, as She may be left with Child, <hi>&amp;c.</hi> The Innocent Party in ſuch a caſe would be manifeſtly puniſhed for the fault of the other.</p>
+            <p n="3">3. Again 'tis by this evident, what advantage like<g ref="char:EOLhyphen"/>wiſe a <hi>fraudulent</hi> Perſon might make of this Law, to ſerve his Ends upon a Woman, and then get a Separa<g ref="char:EOLhyphen"/>tion from her, or throw her off upon any Diſlike.</p>
+            <p n="4">4. In a word, Suits about the Validity of Marriages will very probably be found endleſs, conſidering the many Opportunities ill Men may have by this Act, to call a Marriage into queſtion, whenever they ſhall diſlike, or be willing to get rid of their Wives. Which may prove a much greater Evil to Parents, as to world<g ref="char:EOLhyphen"/>ly Reſpects, in the Marriage of their Children, than the Miſchiefs which ſome may imagine this new Law will prevent.</p>
+            <p n="5">5. The Children likewiſe born of ſuch Marriages are left without Proviſion, unleſs it be that which the Law of the Land hath already made for <hi>Baſtards,</hi> which
+<pb n="9" facs="tcp:43780:5"/>theſe I ſuppoſe are intended to be reputed. And when the Women that are divorced in ſuch Marriages ſhall come to be reputed <hi>Harlots,</hi> as they muſt in conſe<g ref="char:EOLhyphen"/>quence. That Stain may be more a Prejudice to Fami<g ref="char:EOLhyphen"/>lies than can at a diſtance be apprehended.</p>
+            <p>By theſe Inſtances, any Man that would ſet himſelf to conſider, may gueſs at a multitude of other very dan<g ref="char:EOLhyphen"/>gerous Conſequences, prejudicial to Chriſtianity, and more prejudicial to Families, than the Miſchief intended to be quenched, which may follow upon this <hi>Act,</hi> through the Inadvertency of many well meaning Per<g ref="char:EOLhyphen"/>ſons, the Endeavours of others to elude, and others to abuſe the ſame.</p>
+            <p>
+               <hi>Son under ſixteen, or Daughter under fourteen (their Father being dead) tho they marry or contract with Guar<g ref="char:EOLhyphen"/>dians Conſent, yet ſuch Marriage ſhall be</hi> ipſo facto <hi>void.</hi>
+            </p>
+            <p>The Intention of this, I ſuppoſe, is to prevent the Fraud and Diſhoneſty and Betraying of Truſt in <hi>Guar<g ref="char:EOLhyphen"/>dians,</hi> that they may not, as ſome perhaps have done, marry a <hi>Minor</hi> for Gain, or to their own Relations as others, to the Child's great Diſadvantage, while it is ſo young as to be ſuppoſed not to have the Uſe of Rea<g ref="char:EOLhyphen"/>ſon, to know what the Contract of Marriage ſignifieth, or to aſſent to ſuch a Contract. A Crime this, that de<g ref="char:EOLhyphen"/>ſerves Puniſhment by ſuch Forfeitures as the Guardian is ſubjected to by this Act in caſe of betraying his Truſt, <hi>viz. Value of a Third Part of the Minors Eſtate,</hi> and perhaps a greater Penalty than ſo. But in the <hi>making void</hi> ſuch Marriages many Conſciences may be intangled as before, and greater Inconveniences happen to the Minor in reſpect of Reputation, <hi>&amp;c.</hi> than the Proviſion which is made hereby for the Security of the <hi>Eſtate</hi> can recompenſe.</p>
+            <p>
+               <hi>Minor marrying contrary to the Act, not to have the Benefit of any Law by reaſon of ſuch pretended Mar<g ref="char:EOLhyphen"/>riage,
+<pb n="10" facs="tcp:43780:6"/>but ſhall loſe Right and Title to Goods, Chattels, Dower, Letters of Adminiſtration,</hi> &amp;c.</p>
+            <p>A Puniſhment ſomewhat too ſevere upon Minors, whom this Act ſuppoſes not to have <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> to Contract for their own Marriage; who cannot there<g ref="char:EOLhyphen"/>fore well be ſuppoſed to have <hi>Foreſight</hi> enough to pre<g ref="char:EOLhyphen"/>vent the Danger which after this Law they will incur.</p>
+            <p>
+               <hi>The Father, Guardian or Friend of ſuch Minor may proſecute in the Minors or their own Name, in Eccleſiaſti<g ref="char:EOLhyphen"/>cal Courts, and have the Marriage nulled.</hi>
+            </p>
+            <p>A moſt ſtrange Impoſition this is certainly like to be upon the Church, that the <hi>Church</hi> ſhall be enforced to <hi>void</hi> Marriages according to the Laws of the <hi>Secular Power,</hi> when the Truſt it hath in the matter of Marria<g ref="char:EOLhyphen"/>ges committed to it, is from the <hi>Law of Chriſt,</hi> which hath confined all Chriſtians to marry <hi>One</hi> to <hi>One</hi> and the Marriage to be <hi>Indiſſoluble</hi> but in <hi>Fornication.</hi> The Civil Power may as well be an Enemy to Chriſtianity as not (and that as well profeſſing to maintain it as profeſſing to perſecute it) and to ſay therefore that God hath left the Conſciences of Chriſtians to be ſecured by the Ci<g ref="char:EOLhyphen"/>vil Power, ſubmitting to what it determines in this caſe, is to ſay, that the Conſciences of Chriſtians can be ſecured in the <hi>Diſſolving</hi> of <hi>Marriages,</hi> otherwiſe than according to the Law of our Lord. Whenever there<g ref="char:EOLhyphen"/>fore the <hi>Law</hi> of a <hi>Kingdom</hi> ſhall inforce the <hi>Miniſters</hi> of the <hi>Church</hi> either to <hi>void</hi> thoſe Marriages which that hath diſanulled, but which are good in the <hi>ſight of God;</hi> or to bleſs thoſe ſecond Marriages which <hi>this</hi> allow<g ref="char:EOLhyphen"/>eth, but <hi>God</hi>'s Law makes <hi>Adulteries</hi> (the Party that is put away, and not for Adultery remaining alive) it will be a horrible Breach upon Chriſtianity. When the <hi>Church</hi> ſhall be compelled to judge and diſanul <hi>Marriages</hi> by <hi>another</hi> Law than that of <hi>Chriſt,</hi> and allow of, and bleſs others which that forbids. The Act of the
+<pb n="11" facs="tcp:43780:6"/>Church in the Caſe will ſeem to concur for the ſecuring the Conſciences of Chriſtians; wherein when it is con<g ref="char:EOLhyphen"/>ſtrained to concur in an unlawful Caſe, upon whom ſhall thoſe Souls that are in danger by that means to periſh be chargeable? They who will ſay upon the <hi>Clergy</hi> that ſhall concur in it (as I doubt not but many of this Age will be ready enough to ſay) will 'tis to be hoped excuſe the Clergy, who ſhall be afraid to con<g ref="char:EOLhyphen"/>cur in it, for fear of a <hi>greater</hi> Puniſhment from God (in being <hi>Partakers</hi> with what will open a Door for <hi>Adulteries</hi>) than that which ſevere Governors may in<g ref="char:EOLhyphen"/>flict to enforce Laws with which in Conſcience they cannot comply.</p>
+            <p>But beſides upon a <hi>Divorce</hi> in which the Church is Judge, Bond is at preſent required by the <hi>Canon</hi> to be taken, that neither of the <hi>ſeparated</hi> Parties <hi>marry</hi> again, but <hi>live ſingle</hi> (a Law made for Prevention of <hi>de<g ref="char:EOLhyphen"/>ſigned Adulteries,</hi> which were found to be made uſe of to void Marriages of ſet purpoſe.) And if this Canon be obſerved, the Parties ſeparated after ſuch Marriages and Cohibitation in their Minority, are to be obliged to <hi>live ſingle.</hi> To which I doubt the Parents of ſuch Minors will not be over-willing; neither is it, I ſuppoſe, deſigned; but the Church muſt have a Conſtraint laid upon her, and her Canons muſt be laid aſide at the plea<g ref="char:EOLhyphen"/>ſure of the Secular Power; how well or ill ſoever the Concerns of Chriſtianity go in the mean time.</p>
+            <p>'Tis too long to mention the Advantage which the Papiſts will have againſt the Reformation, when <hi>Di<g ref="char:EOLhyphen"/>vorces</hi> ſhall become practicable after this manner, who may have colour enough to charge it on us, as the Ef<g ref="char:EOLhyphen"/>fect of our denying <hi>Marriage</hi> to be a <hi>Sacrament.</hi>
+            </p>
+            <p>
+               <hi>None to grant Licenſes but Vicars-General of the two Archbiſhopricks Maſter of Faculties, Chancellors of each Dioceſe, and</hi> one <hi>Deputy of theirs in each Dioceſe, with Approbation of the Biſhop.</hi>
+            </p>
+            <pb n="12" facs="tcp:43780:7"/>
+            <p>
+               <hi>If any grant Licenſe to any not being</hi> (viz.) <hi>above eighteen, if Males, and ſixteen, if Females, without Fa<g ref="char:EOLhyphen"/>ther or Guardians Conſent, perſonally preſent, or his Cer<g ref="char:EOLhyphen"/>tificate ſigned and ſealed before a Juſtice of Peace, and atteſted under his Hand and Seal, and by the Oaths of two Witneſſes; or to Minor (the Father being dead) without the Oath of two Witneſſes that the ſaid Minor is at leaſt ſixteen, if Male; and fourteen, if Female.</hi>
+            </p>
+            <p>
+               <hi>To forfeit five hundred pounds, and to be diſabled to hold any Employ. And if the Deputy does contrary to the Act, he that Deputed him ſhall be liable to the Pe<g ref="char:EOLhyphen"/>nalty, provided the</hi> Biſhops <hi>be not liable for approving ſuch Deputy.</hi>
+            </p>
+            <p>A <hi>Forfeiture</hi> this, that a Man would not chuſe to run the Hazard of, for all the ſuppoſed Advantages or Pro<g ref="char:EOLhyphen"/>fits of Fees for granting Licences. It had been much more beneficial for Chancellors and their Deputies to have had their Faculties wholly taken away; and a Law made for <hi>Publiſhing</hi> the <hi>Banns</hi> in all Marriages, which would more effectually prevent the Miſchiefs this Act is deſigned for. But this, I ſuppoſe, could not be, by reaſon that <hi>Great</hi> Men will not be upon the ſame Level with the vulgar, but <hi>Reſpect</hi> muſt be had to them even in Religious Matters, and Eccleſiaſticks for a poor Re<g ref="char:EOLhyphen"/>ward muſt ſerve them in it, and be anſwerable for the In<g ref="char:EOLhyphen"/>convencies which follow thereby. From which its ſomething that the <hi>Biſhops</hi> are exempt, and that the Burthen and Danger lies upon their Offices and the Inferior Clergy.</p>
+            <p>
+               <hi>Whoever marries ſuch Minor, contrary to the Act, to ſuffer Death as a Felon without the Benefit of Clergy. Fa<g ref="char:EOLhyphen"/>ther, Mother, Guardian of Minors may proſecute, and if none of them do within twelve months, the next of kin ſhall ſue to have the Party convict of Life. No pardon to be pleaded in Bar of ſuch Suit.</hi>
+            </p>
+            <p>It is not intelligible by the Abſtract I have ſeen, whe<g ref="char:EOLhyphen"/>ther
+<pb n="13" facs="tcp:43780:7"/>the perſon ſo to ſuffer Death, be an <hi>adult perſon</hi> that have married ſuch Minor, or the <hi>Miniſter</hi> that joins them in Marriage.</p>
+            <p>If it be the former, and there be no difference whe<g ref="char:EOLhyphen"/>ther it be <hi>Man</hi> adult, or <hi>Woman</hi> that gets married to ſuch Minor. A Woman which by this Law is no Minor af<g ref="char:EOLhyphen"/>ter ſixteen years of age, ſhould ſhe be prevailed with by a Youth of ſeventeen, (who by this Law is reputed a Minor) to marry him without his Fathers Conſent, may come to ſuffer upon that account.</p>
+            <p>Yea be it Man or Woman, and be there ſome kind of Artifice in gaining the Affection of the Minor, yet when the Contract is voluntary, it ſeems ſomewhat hard, that the Crime ſhall be puniſhed with death, eſpecially when the Marriage is made void too, and when <hi>Adultery</hi> fraudulently committed with a Neighbour's Wife is not puniſhed with any ſuch ſeverity, tho doubt<g ref="char:EOLhyphen"/>leſs a much greater Crime. If the Party be to be pu<g ref="char:EOLhyphen"/>niſhed with Death, the Marriage need not be made void; and if the Marriage be it ſelf null, or by the Law may be diſanulled, it merits not a Capital Puniſhment, while that of Adultery is not puniſhed with it.</p>
+            <p>The Allowance of the <hi>next of Kin</hi> to proſecute after twelve Months, if the Father does not, is much more hard; when the Father ſhall not have the Power or Li<g ref="char:EOLhyphen"/>berty to give an <hi>After Conſent,</hi> if he finds occaſion for it: but a Kinſman (that thirſts after the Inheritance of his Eſtate perhaps) ſhall have it in his Power to convict the Offenders, when the Father who is the injured Per<g ref="char:EOLhyphen"/>ſon may be willing to remit the Offence.</p>
+            <p>But probably this Arguing is upon a Miſtake, and it is intended that, <hi>Whoever</hi> Miniſter <hi>or Parſon ſhall join ſuch Minor in Marriage he ſhall ſuffer Death.</hi>
+            </p>
+            <p>If it be ſo, methinks any Man of common Humani<g ref="char:EOLhyphen"/>ty ſhould think it very ſevere, That when the <hi>Guardian</hi> aiding in the Marriage of a Minor againſt his Truſt, or
+<pb n="14" facs="tcp:43780:8"/>Servant Domeſtick, or other Parſon, who has by Fraud drawn in a Minor to ſuch Marriage, ſhall be only pu<g ref="char:EOLhyphen"/>niſhed, <hi>ſome</hi> by Forfeitures, <hi>others</hi> by Impriſonment: the Miniſter before whom ſuch Contract is ratifyed (be<g ref="char:EOLhyphen"/>cauſe in an undue manner) ſhall be puniſhed with <hi>Death:</hi> and this too when the Marriage is by Law made <hi>ſoluble:</hi> 'Tis a very <hi>great Crime</hi> indeed, a moſt wicked Action for a Clergy-Man to be inſtrumental in marrying a Mi<g ref="char:EOLhyphen"/>nor, that he has reaſon to think may not underſtand what he is going about; or if he does, whom yet he knows to take no notice of his Duty to his Parents, with whom he ſhould adviſe, and by whom he ſhould be directed in ſo weighty an Affair. But why is it ſo <hi>great?</hi> But becauſe he betrays the Truſt the Church hath put in him, and this in a Caſe that cannot be re<g ref="char:EOLhyphen"/>medied afterwards (the <hi>Marriage</hi> when once conſum<g ref="char:EOLhyphen"/>mate not being <hi>ſoluble.</hi>) But ſuppoſe the Marriage may be diſſolved again according to this Law, the Crime is much leſs than before.</p>
+            <p>
+               <hi>To prevent all Clandeſtine Marriages.</hi>
+            </p>
+            <p>
+               <hi>Miniſter Marrying without Banus or Licence, or at any other time than appointed by Law, and the in Pri<g ref="char:EOLhyphen"/>viledged Churches, is to be ſuſpended</hi> ab Officio &amp; Be<g ref="char:EOLhyphen"/>neficio <hi>for the firſt Offence, and ſuffer Impriſonment for three years. The ſecond time to be deprived and in<g ref="char:EOLhyphen"/>capable of any Preferment for ever. If not Beneficed he ſhall be Degraded and Impriſoned.</hi>
+            </p>
+            <p>This ſeems to comprehend all Clandeſtine Marriages and makes the Caſe equal, whether the Miniſter has done an Act of <hi>Injuſtice</hi> to any Perſon in Tranſgreſſing the Law or not. 'Tis ſevere that when an offence is not againſt the <hi>End</hi> of a Law, that an Infirmity in a Miniſter in yielding to the importunity perhaps of a mighty Man in his Pariſh that over-awes him too, ſo far as to ware the <hi>Formalities</hi> of the Law, ſhall be puniſhed, as if he had done the Injuſtice the Law in<g ref="char:EOLhyphen"/>tends
+<pb n="15" facs="tcp:43780:8"/>to prevent. The Miniſter ſhould not yield you'll ſay; True, yet there's never a Peaſant or Me<g ref="char:EOLhyphen"/>chanick in his Pariſh, but will take upon him to declare himſelf offended, when the ſtubborn Prieſt will not wave the Rules he is to go by, to oblige him; and what Difficulties may a Clergyman (whoſe mainte<g ref="char:EOLhyphen"/>nance is ſtrait, and what he has Precarious too) be brought into by the ſtrictneſs of this Act?</p>
+            <p>
+               <hi>Miniſter ſhall not ſuffer if Licence be forged,</hi> &amp;c.</p>
+            <p>'Tis a kindneſs at laſt that the Miniſter ſhall not ſuf<g ref="char:EOLhyphen"/>fer if Licence be forged. But he is ſtill expoſed to vexatious ſuits and moleſtations and muſt be at infinite Trouble to take and keep by him Memorials of the Circumſtances of every Marriage, that he may be able to quit and clear himſelf, ſhould he be called to account, as he may be at any time hereafter.</p>
+            <p>There is no man, if the caſe were his own, but would deſire to be freed from ſo hazardous an Office, which though he endeavours to diſcharge with the utmoſt fi<g ref="char:EOLhyphen"/>delity, ſhall expoſe him nevertheleſs continually to be haraſſed with ſuits, and brought in danger of loſing all his Livelyhood. Out of common Compaſſion there<g ref="char:EOLhyphen"/>fore one would think ſuch a Burthen and ſuch Dif<g ref="char:EOLhyphen"/>ficulties ſhould not be impoſed on the Clergy, which they might be eaſed of too by a Law, that no <hi>Mar<g ref="char:EOLhyphen"/>riage whatſoever</hi> be, before the <hi>Banns</hi> be publiſhed three ſeveral <hi>Sundays</hi> in a full Congregation in the Pariſhes where the Parties concerned live, and <hi>This</hi> to be the Miniſters ſecurity; that if any Miniſter mar<g ref="char:EOLhyphen"/>ried any Perſons without Banns publiſhed or notwith<g ref="char:EOLhyphen"/>ſtanding <hi>Impediment</hi> alledged, then the Puniſhment be ſuch as is here aſſigned, which one Proviſoe in all pro<g ref="char:EOLhyphen"/>bability would prevent the miſchiefs (deſigned by this <hi>Act</hi> to be prevented) more effectually than all the ſtu<g ref="char:EOLhyphen"/>dyed Cautions thereof.</p>
+            <p>And in that Caſe there would be no ſnare to mens
+<pb n="16" facs="tcp:43780:9"/>Conſciences as here, where the Secular Authority takes upon it to void Marriages otherwiſe than by the Law of Chriſt; and to compel the Church to do the ſame.</p>
+            <p>Methinks there ſhould be ſome Compaſſion for the <hi>Clergy</hi> as well as for the People called <hi>Quakers,</hi> who have not only a favour but an advantage in the cloſe of this <hi>Act;</hi> from which, a Man that does not envy them in it may yet take occaſion to Requeſt, that the Conſciences of the <hi>Clergy</hi> be not impoſed on, any more than thoſe of other men; As Experience may ere long evidence that they will be, where they ſhall be compelled to concur in the Execution of ſeveral <hi>Particulars</hi> of this <hi>Act.</hi>
+            </p>
+            <p>To make them concur in which is hard at preſent, it is Provided that this <hi>Act</hi> be <hi>read in all Churches;</hi> a thing that that Man cannot in Conſcience comply with, who does not believe that ſuch Marriages are void by the <hi>Law of Chriſt,</hi> which by <hi>this Law of the Land</hi> are intended to be Diſſolved, or made Null.</p>
+            <p>A Man that would ſet about it might write a Vo<g ref="char:EOLhyphen"/>lume upon the Sins and Inconveniences and Miſchiefs that may follow this Act, ſhould it paſs into a Law of the Land; which 'tis to be hoped it never will in a Na<g ref="char:EOLhyphen"/>tion profeſſing Chriſtianity; ſhould it ever, the Fault will lie heavy ſomewhere; chiefly upon thoſe, who by their Place and Station ſhould endeavour for the Inte<g ref="char:EOLhyphen"/>reſt of the Church and of Chriſtianity, and yet in this Caſe are ſilent and content to let a Law paſs, which hath a ſpecious Pretext, but which in time ſhall make way for that to become Practicable (which ſuits the new modelled Opinions of ſome Modern Divines, but is widely different from the Law of Chriſt, and the Senſe of the whole Church interpreting it) <hi>viz.</hi> That <hi>Divorces be for other Cauſes than that of Fornica<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43780:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
